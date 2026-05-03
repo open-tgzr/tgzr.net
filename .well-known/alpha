@@ -2,6 +2,7 @@
     "brokers": [
         "broker.alpha.tgzr.net"
     ],
+    "prefix": "tgzr-alpha",
     "id": "https://id.alpha.tgzr.net",
     "oidc_cid": "db32f5c5-4356-4939-a7ce-72ef1f40ec3c",
     "oidc_id": "jARgJMRnpIcJpS2BfK1dnXGhKI9H8kij"
